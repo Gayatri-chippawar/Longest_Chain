@@ -60,7 +60,7 @@ Total	O(n log n)
 🏁 Sample Output
 Maximum length of chain = 3
 
-# 🚀 Key Concepts Used
+## 🚀 Key Concepts Used
 
 Greedy Algorithm
 
